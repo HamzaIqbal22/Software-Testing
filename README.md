@@ -11,7 +11,7 @@ Exploring a diverse range of methodologies for verifying and validating software
 Software Model Driven Test Design (MDTD), Agile SDLC and Agile testing methodologies, Data-Driven Tests (DDT), Test automation: JUnit test framework, Java path finder, and other automated test frameworks, Criteria and coverage, Graph coverage overview, Infeasibility and subsumption,
 Input Space Partitioning (ISP), Input Domain Modeling: Interface based, functionality based; Techniques for improving test design; Semantic logic coverage criteria; Test automation tools for logical coverage, Structural logic coverage of programs; Specification-based logic coverage, Logic coverage of finite state machines; Syntax based Testing: Program-Based Mutation, Integration Mutation, Specification-Based Mutation; Continuous integration (regression testing) and containerized testing strategy; Managing test processes; Designing test plans; Designing Effective Test
 
-## Lab Overview
+## Labs Overview
 Lab 1
 - JUnit. Review of Automated Testing. 
 - Advanced Automated Testing in JUnit: Suit Testing and testing Using TestNG,
