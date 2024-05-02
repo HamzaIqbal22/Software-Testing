@@ -51,12 +51,26 @@ The project conducted testing on several features of Mindustry, including factor
 
 ## Control Flow Graph (Feature #3 - Health.java)
 ![image](https://github.com/HamzaIqbal22/Software-Testing/assets/81776951/74fcc5f8-2b1b-45b7-9121-1825fa03bffa)
+
+## Control Flow Graph (onDestroyed() for constructBlock.java)
+![image](https://github.com/HamzaIqbal22/Software-Testing-and-Quality-Assurance/assets/81776951/8da7c640-4f96-4f1a-abf3-bbbe81217b74)
+
+
 ## Data Flow Graph (Feature #5 - LiquidBlock.java)
 ![image](https://github.com/HamzaIqbal22/Software-Testing/assets/81776951/133a57b9-4ef7-4fba-b349-d5718b5a48c2)
 ![image](https://github.com/HamzaIqbal22/Software-Testing/assets/81776951/8c9a6cf2-3034-4286-8a21-d4e53e839ce8)
 
 ## Logic Based Testing (Feature #3 - Health.java)
 ![image](https://github.com/HamzaIqbal22/Software-Testing/assets/81776951/bb85275a-053f-4474-948c-f99c694cc9d4)
+
+
+## Logic Based Testing (onDestroyed() for constructBlock.java)
+![image](https://github.com/HamzaIqbal22/Software-Testing-and-Quality-Assurance/assets/81776951/ea1f5714-dd8a-4360-a066-def96087ea2e)
+
+
+## Coverage Sample Result
+![image](https://github.com/HamzaIqbal22/Software-Testing-and-Quality-Assurance/assets/81776951/578713f3-3df0-4264-a942-1eaf71017184)
+
 
 ## Key Objectives:
 1. Developing a deep understanding of systematic methods to debug complex object oriented programs.
